@@ -68,6 +68,10 @@ The evaluate on Flare7kpp dataset:
 python evaluate.py
 ```
 
+## Acknowledgement
+
+Our code was descended and modified from the open-source code and datasets by Yuekun Dai. Thanks for their contribution to the field of flare removal! **[[Flare7kpp Project](https://github.com/ykdai/Flare7K)]**
+
 ## License
 
 This codebase is released under the [Apache 2.0 license](LICENSE).
