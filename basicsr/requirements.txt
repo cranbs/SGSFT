@@ -1,0 +1,13 @@
+basicsr
+numpy
+opencv-python
+requests
+torch
+torchvision
+tqdm
+timm
+einops
+scikit-image 
+kornia
+lpips
+focal-frequency-loss
