@@ -43,7 +43,7 @@ When capturing scenes with intense light sources, extensive flare artifacts ofte
 
 ### Checkpoint
 
-You can download our trained models from  the [google drive](https://drive.google.com/file/d/1rq3z5U3K16Cx7IU6XtTk_UOP-0qbH-Rs/view?usp=drive_link).
+You can download our trained models from  the [google drive](https://drive.google.com/file/d/1rq3z5U3K16Cx7IU6XtTk_UOP-0qbH-Rs/view?usp=drive_link). [夸克网盘](https://pan.quark.cn/s/781306e5761a)
 
 ### Training
 
