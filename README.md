@@ -85,9 +85,9 @@ If you find this repository useful, please kindly consider citing the following 
   journal={IEEE Transactions on Automation Science and Engineering}, 
   title={Self-prior Guided Spatial and Fourier Transformer for Nighttime Flare Removal}, 
   year={2025},
-  volume={},
+  volume={22},
   number={},
-  pages={1-1},
+  pages={11996-12011},
   keywords={Lenses;Light sources;Scattering;Data mining;Transformers;Semantics;Cameras;Image quality;Reflection;Optical scattering;Flare removal;self-prior information;image restoration;nighttime photography},
   doi={10.1109/TASE.2025.3539632}}
 ```
