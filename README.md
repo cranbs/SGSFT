@@ -88,6 +88,5 @@ If you find this repository useful, please kindly consider citing the following 
   volume={22},
   number={},
   pages={11996-12011},
-  keywords={Lenses;Light sources;Scattering;Data mining;Transformers;Semantics;Cameras;Image quality;Reflection;Optical scattering;Flare removal;self-prior information;image restoration;nighttime photography},
   doi={10.1109/TASE.2025.3539632}}
 ```
