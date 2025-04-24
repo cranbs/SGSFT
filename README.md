@@ -1,4 +1,5 @@
 # Self-prior Guided Spatial and Fourier Transformer for Nighttime Flare Removal (SGSFT)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.glitch.me/badge?page_id=cranbs/SGSFT) ![GitHub stars](https://img.shields.io/github/stars/cranbs/SGSFT?color=green)  ![GitHub forks](https://img.shields.io/github/forks/cranbs/SGSFT?color=9cf)
 
 The codebase provides the official PyTorch implementation and some model checkpoints for the paper ["Self-prior Guided Spatial and Fourier Transformer for Nighttime Flare Removal"](https://ieeexplore.ieee.org/abstract/document/10877847) (accepted by TASE-2025).
 
